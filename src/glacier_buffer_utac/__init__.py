@@ -1,0 +1,76 @@
+"""glacier-buffer-utac -- real glacial hydrological buffer / downstream cascade science.
+
+GenesisAeon Package 99. Deliberately has no UTAC/CREP/AFET bridge -- see DISCLAIMER.md.
+"""
+
+from .cascade import (
+    ALL_CASCADE_STAGES,
+    DOCUMENTED_FLOW_REDUCTION_EXPERIMENT,
+    CascadeStage,
+    ExperimentalFlowReduction,
+    buffer_sensitivity_multiplier,
+    is_below_glacier_cover_threshold,
+    recovery_time_months_range,
+    wetland_dependence_category,
+)
+from .constants import (
+    CASCADE_HONESTY_NOTE,
+    CASCADE_SYNTHESIS_NOTE,
+    CAUVY_FRAUNIE_2016_CITATION,
+    CAUVY_FRAUNIE_2016_DOI,
+    CAUVY_FRAUNIE_CAVEAT_NOTE,
+    DESYNCHRONY_LOSS_NOTE,
+    DUNKLE_2025_CITATION,
+    DUNKLE_2025_DOI,
+    EXPERIMENTAL_FLOW_REDUCTION_PCT,
+    FAUNA_DENSITY_INCREASE_FACTOR,
+    FAUNA_DENSITY_INCREASE_UNCERTAINTY,
+    GLACIER_COVER_THRESHOLD_PCT,
+    HUSS_HOCK_2018_CITATION,
+    HUSS_HOCK_2018_DOI,
+    MILNER_2017_CITATION,
+    MILNER_2017_DOI,
+    PACKAGE_ID,
+    PEAK_WATER_NOTE,
+    RECOVERY_TIME_MONTHS_MAX,
+    RECOVERY_TIME_MONTHS_MIN,
+    WETLAND_DEPENDENCE_NOTE,
+    XUAN_2026_CITATION,
+    XUAN_2026_DOI,
+)
+
+__version__ = "1.0.0"
+
+__all__ = [
+    "ALL_CASCADE_STAGES",
+    "CASCADE_HONESTY_NOTE",
+    "CASCADE_SYNTHESIS_NOTE",
+    "CAUVY_FRAUNIE_2016_CITATION",
+    "CAUVY_FRAUNIE_2016_DOI",
+    "CAUVY_FRAUNIE_CAVEAT_NOTE",
+    "DESYNCHRONY_LOSS_NOTE",
+    "DOCUMENTED_FLOW_REDUCTION_EXPERIMENT",
+    "DUNKLE_2025_CITATION",
+    "DUNKLE_2025_DOI",
+    "EXPERIMENTAL_FLOW_REDUCTION_PCT",
+    "FAUNA_DENSITY_INCREASE_FACTOR",
+    "FAUNA_DENSITY_INCREASE_UNCERTAINTY",
+    "GLACIER_COVER_THRESHOLD_PCT",
+    "HUSS_HOCK_2018_CITATION",
+    "HUSS_HOCK_2018_DOI",
+    "MILNER_2017_CITATION",
+    "MILNER_2017_DOI",
+    "PACKAGE_ID",
+    "PEAK_WATER_NOTE",
+    "RECOVERY_TIME_MONTHS_MAX",
+    "RECOVERY_TIME_MONTHS_MIN",
+    "WETLAND_DEPENDENCE_NOTE",
+    "XUAN_2026_CITATION",
+    "XUAN_2026_DOI",
+    "CascadeStage",
+    "ExperimentalFlowReduction",
+    "buffer_sensitivity_multiplier",
+    "is_below_glacier_cover_threshold",
+    "recovery_time_months_range",
+    "wetland_dependence_category",
+]

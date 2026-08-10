@@ -1,0 +1,71 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+type: software
+authors:
+  - family-names: Römer
+    given-names: Johann
+    affiliation: "MOR Research Collective"
+title: "glacier-buffer-utac"
+version: "1.0.0"
+date-released: "2026-08-10"
+url: "https://github.com/GenesisAeon/glacier-buffer-utac"
+repository-code: "https://github.com/GenesisAeon/glacier-buffer-utac"
+license: MIT
+abstract: "Real glacial hydrological buffer (peak water) and downstream buffer-loss cascade science -- deliberately no UTAC/CREP/AFET bridge. GenesisAeon P99."
+keywords:
+  - GenesisAeon
+  - P99
+  - climate
+  - glacier
+  - peak-water
+  - hydrology
+  - open-science
+references:
+  - type: article
+    title: "Global-scale hydrological response to future glacier mass loss"
+    authors:
+      - name: "Huss, M."
+      - name: "Hock, R."
+    year: 2018
+    journal: "Nature Climate Change"
+    volume: 8
+    start: 135
+  - type: article
+    title: "Glacier shrinkage driving global changes in downstream systems"
+    authors:
+      - name: "Milner, A.M."
+      - name: "Khamis, K."
+      - name: "Battin, T.J."
+    year: 2017
+    journal: "PNAS"
+    volume: 114
+    issue: 37
+    start: 9770
+  - type: article
+    title: "Ecological responses to experimental glacier-runoff reduction in alpine rivers"
+    authors:
+      - name: "Cauvy-Fraunie, S."
+      - name: "Andino, P."
+      - name: "Espinosa, R."
+    year: 2016
+    journal: "Nature Communications"
+    volume: 7
+    start: 12025
+  - type: article
+    title: "Loss of meltwater from glaciers and snowpack may increase synchrony of river habitats and resources in mountain watersheds"
+    authors:
+      - name: "Dunkle, M.R."
+      - name: "Bellmore, J.R."
+      - name: "Fellman, J.B."
+    year: 2025
+    journal: "Ecology"
+    volume: 106
+    issue: 4
+  - type: article
+    title: "Spatial Patterns of Glacier-Wetland Hydrological Connectivity in the Rapidly Deglaciating Peruvian Andes"
+    authors:
+      - name: "Xuan, D."
+      - name: "Becker, R."
+      - name: "Vargas Valverde, M."
+    year: 2026
+    journal: "Earth's Future"
