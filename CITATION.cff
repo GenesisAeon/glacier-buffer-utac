@@ -6,8 +6,8 @@ authors:
     given-names: Johann
     affiliation: "MOR Research Collective"
 title: "glacier-buffer-utac"
-version: "1.0.0"
-date-released: "2026-08-10"
+version: "1.0.1"
+date-released: "2026-08-31"
 url: "https://github.com/GenesisAeon/glacier-buffer-utac"
 repository-code: "https://github.com/GenesisAeon/glacier-buffer-utac"
 license: MIT

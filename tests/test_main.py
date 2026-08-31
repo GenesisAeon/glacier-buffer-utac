@@ -18,7 +18,7 @@ from glacier_buffer_utac import (
 
 
 def test_version():
-    assert __version__ == "1.0.0"
+    assert __version__ == "1.0.1"
 
 
 def test_package_id():

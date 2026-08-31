@@ -4,6 +4,9 @@ GenesisAeon Package 99 — real glacial hydrological buffer ("peak water")
 and downstream buffer-loss cascade science. **Deliberately has no
 UTAC/CREP/AFET bridge** — see [DISCLAIMER.md](DISCLAIMER.md).
 
+For a plain-language explanation of the same topic (German, no jargon,
+written for general audiences), see [WHITEPAPER.md](WHITEPAPER.md).
+
 ## What's real here
 
 - Huss & Hock (2018, *Nature Climate Change*): "peak water" — glacier

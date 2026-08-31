@@ -1,6 +1,6 @@
 [project]
 name = "glacier-buffer-utac"
-version = "1.0.0"
+version = "1.0.1"
 description = "Real glacial hydrological buffer / peak-water science (Huss & Hock 2018, Milner et al. 2017, Cauvy-Fraunie et al. 2016) -- downstream buffer-loss cascade, no UTAC/CREP bridge"
 readme = "README.md"
 license = { text = "MIT" }
